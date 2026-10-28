@@ -65,7 +65,7 @@ Lợi nhuận trung bình trên mỗi dòng đơn hàng của từng nhóm đi�
 
 ```
 ├── Cohort_Analysis.ipynb
-├── data/            # không đưa lên repo, tự thêm file CSV
+├── data/            
 ├── images/          # các biểu đồ đã xuất
 ├── requirements.txt
 └── README.md
