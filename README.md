@@ -71,16 +71,7 @@ Lợi nhuận trung bình trên mỗi dòng đơn hàng của từng nhóm đi�
 └── README.md
 ```
 
-## Hướng dẫn chạy
 
-```bash
-git clone https://github.com/[ten_nguoi_dung]/[ten_repo].git
-cd [ten_repo]
-pip install pandas numpy matplotlib seaborn jupyter
-jupyter notebook Cohort_Analysis.ipynb
-```
-
-Trước khi chạy, hãy sửa đường dẫn trong cell nạp dữ liệu đầu tiên để trỏ tới thư mục `data/` trên máy của bạn.
 
 ## Hạn chế và hướng phát triển
 
@@ -90,6 +81,4 @@ Trước khi chạy, hãy sửa đường dẫn trong cell nạp dữ liệu đ�
 * Mở rộng sang phân khúc RFM với thêm hai chiều là mức độ gần đây và giá trị chi tiêu.
 * Kiểm định thống kê để xác nhận sự khác biệt giữa Corporate và Consumer.
 
-## Tác giả
 
-**[Họ và tên]** · [LinkedIn] · [Email]
